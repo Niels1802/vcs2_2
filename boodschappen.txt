@@ -1,5 +1,14 @@
+Boodschappen Pizza
 Pizzabodem
 Tomatensaus
 Kaas
 Toppings
 Pizzames
+
+Boodschappen Ontbijt
+Brood
+Boter
+Ham
+Kaas
+Melk
+Hagelslag
