@@ -12,3 +12,4 @@ Ham
 Kaas
 Melk
 Hagelslag
+Jam
